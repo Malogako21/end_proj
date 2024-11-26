@@ -1,0 +1,10 @@
+.content {
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px;
+  background: linear-gradient(#aafc4d, #57c49a);
+  height: 90vh;
+}
+
+

@@ -1,0 +1,26 @@
+.card {
+  width: 100%;
+  height: 80vh;
+
+  margin-right: auto;
+  margin-left: auto;
+  padding: 3px;
+  /*
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  */
+}
+
+.p-toolbar {
+  /*height: 50px;*/
+  margin: 5px;
+  padding: 3px;
+}
+
+.is_completed {
+  display: flex;
+  justify-content: center;
+}

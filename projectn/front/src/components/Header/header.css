@@ -1,0 +1,40 @@
+.header-status {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  width: 100%;
+  padding: 10px;
+  background: linear-gradient(90deg, #aafc4d, #57c49a, #aafc4d, #57c49a);
+}
+
+.header-status p {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+}
+
+.exit {
+  margin-left: auto;
+}
+
+.exitbutton {
+  position: relative;
+
+  border: 0;
+  cursor: pointer;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+
+  padding: 0.5rem 1rem;
+  background-color: #24f547;
+  color: white;
+  border-radius: 5px;
+  transition: 0.3s background-color ease-out;
+}
+
+.exitbutton:hover {
+  background-color: #03803b;
+}
